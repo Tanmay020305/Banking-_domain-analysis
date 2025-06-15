@@ -42,7 +42,8 @@ This Power BI project focuses on analyzing and visualizing key banking metrics u
 
 ## 🖼️ Dashboard Preview
 
-![Banking Power BI Dashboard](./dashboard.png)
+![Banking Power BI Dashboard](./Das![Dashboard](https://github.com/user-attachments/assets/879c943f-e03a-4952-862a-18521793de1a)
+hboard.png)
 
 ---
 
